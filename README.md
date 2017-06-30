@@ -1,2 +1,2 @@
 # TBD_tracker
-The source code of TRACKING BY HUNTING THE DIFFERENCE
+The source code of Generic Pixel Level Object Tracker Using Bi-channel Fully Convolutional Network
